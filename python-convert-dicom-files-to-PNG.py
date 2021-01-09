@@ -1,3 +1,5 @@
+import numpy as np
+import png
 import glob
 import os
 import pydicom
