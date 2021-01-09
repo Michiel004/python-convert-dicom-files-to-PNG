@@ -5,7 +5,7 @@ This repository contains 2 example files on how to covert a dicom file into a pn
 
 Warning: the patient information will be lost and not be included in the png file.
 
-Before starting the conversation change the inputdir and outdir to your specific needs. 
+Before starting the conversion change the inputdir and outdir to your specific needs. 
 
 
 
